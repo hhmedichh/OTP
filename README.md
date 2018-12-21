@@ -1,0 +1,1 @@
+This is a one-time pad based encryption module that lets you __alter strings__ very easily, as you can create a _binary equivalent_ of a given string, _reverse this_ and, of course, encrypt and decrypt.
